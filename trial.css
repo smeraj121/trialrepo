@@ -1,0 +1,14 @@
+@font-face {
+    font-family: MatchIconFont-Regular;
+    src: url(https://securecp.match.com/styles/fonts/match-icons/matchiconfont-regular_v3.eot);
+    src: url(https://securecp.match.com/styles/fonts/match-icons/matchiconfont-regular_v3.woff) format("woff"), url(https://securecp.match.com/styles/fonts/match-icons/matchiconfont-regular_v3.svg#icons) format("svg");
+    font-weight: 400;
+    font-style: normal;
+}
+.icon {
+    font-family: MatchIconFont-Regular;
+    display: inline-block;
+    zoom: 1;
+    -webkit-text-stroke: .3px;
+    font-weight: 100;
+}
